@@ -1,6 +1,6 @@
 """
 python日志模块常用的操作，如：将日志信息输出到标准输出，将日志信息输出到文件，将日志信息存到变量中
-
+http://alanwsmith.com/capturing-python-log-output-in-a-variable
 
 """
 
